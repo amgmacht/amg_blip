@@ -1,4 +1,4 @@
--- Here is the page where you can find blips and colors for the blips: https://docs.fivem.net/docs/game-references/blips/
+--- Here is the page where you can find blips and colors for the blips: https://docs.fivem.net/docs/game-references/blips/
 
 local blip = {
     --example {title="", colour=, id=, x=, y=, z=},
